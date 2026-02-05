@@ -29,18 +29,18 @@ Currently advancing **AI-integrated data infrastructure** and **Large Language M
 ---
 
 ### 🤖 MLOps & Deployment
-* **Model Readiness:** Partnering with Data Science teams to deliver high-availability, structured datasets for ML model training.
-* **Scalable Infrastructure:** Designing elastic cloud architectures (Azure, OCI, AWS) to support large-scale AI workloads and data processing.
-* **Production Reliability:** Implementing automated data governance and lineage tracking to ensure auditability for AI-driven pipelines.
-* **Automation:** Streamlining complex deployment workflows using Jenkins and CI/CD for consistent delivery.
+**Model Readiness:** Partnering with Data Science teams to deliver high-availability, structured datasets for ML model training.
+**Scalable Infrastructure:** Designing elastic cloud architectures (Azure, OCI, AWS) to support large-scale AI workloads and data processing.
+**Production Reliability:** Implementing automated data governance and lineage tracking to ensure auditability for AI-driven pipelines.
+**Automation:** Streamlining complex deployment workflows using Jenkins and CI/CD for consistent delivery.
 
 ---
 
 ### 📊 Professional Impact
-* **Cloud Transformation:** Led migrations to Azure/OCI/AWS, reducing operational overhead by **25%**.
-* **Execution Speed:** Improved real-time analytics performance by **30%** via strategic schema redesign.
-* **Data Integrity:** Reduced production errors by **40%** by integrating DBT and Great Expectations.
-* **Architecture:** Designed SQL Server Data Warehouses with **20+ table schemas** for mission-critical data.
+**Cloud Transformation:** Led migrations to Azure/OCI/AWS, reducing operational overhead by **25%**.
+**Execution Speed:** Improved real-time analytics performance by **30%** via strategic schema redesign.
+**Data Integrity:** Reduced production errors by **40%** by integrating DBT and Great Expectations.
+**Architecture:** Designed SQL Server Data Warehouses with **20+ table schemas** for mission-critical data.
 
 ---
 
